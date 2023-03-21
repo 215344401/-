@@ -1,98 +1,98 @@
 [
   {
     "sunshine": "1000LX",
-    "time": 0h
+    "time": "0h"
   },
   {
     "sunshine": "1100LX",
-    "time": 1h
+    "time": "1h"
   },
   {
     "sunshine": "1000LX",
-    "time": 2h
+    "time": "2h"
   },
   {
     "sunshine": "1200LX",
-    "time": 3h
+    "time": "3h"
   },
   {
     "sunshine": "1400LX",
-    "time": 4h
+    "time": "4h"
   },
   {
     "sunshine": "1700LX",
-    "time": 5h
+    "time": "5h"
   },
   {
     "sunshine": "4000LX",
-    "time": 6h
+    "time": "6h"
   },
   {
     "sunshine": "6000LX",
-    "time": 7h
+    "time": "7h"
   },
   {
     "sunshine": "9000LX",
-    "time": 8h
+    "time": "8h"
   },
   {
     "sunshine": "13000LX",
-    "time": 9h
+    "time": "9h"
   },
   {
     "sunshine": "20000LX",
-    "time": 10h
+    "time": "10h"
   },
   {
     "sunshine": "25000LX",
-    "time": 11h
+    "time": "11h"
   },
   {
     "sunshine": "30000LX",
-    "time": 12h
+    "time": "12h"
   },
   {
     "sunshine": "35000LX",
-    "time": 13h
+    "time": "13h"
   },
   {
     "sunshine": "34000LX",
-    "time": 14h
+    "time": "14h"
   },
   {
     "sunshine": "32000LX",
-    "time": 15h
+    "time": "15h"
   },
   {
     "sunshine": "23000LX",
-    "time": 16h
+    "time": "16h"
   },
   {
     "sunshine": "15000LX",
-    "time": 17h
+    "time": "17h"
   },
   {
     "sunshine": "5000LX",
-    "time": 18h
+    "time": "18h"
   },
   {
     "sunshine": "3000LX",
-    "time": 19h
+    "time": "19h"
   },
   {
     "sunshine": "2000LX",
-    "time": 20h
+    "time": "20h"
   },
   {
     "sunshine": "1000LX",
-    "time": 21h
+    "time": "21h"
   },
   {
     "sunshine": "1000LX",
-    "time": 22h
+    "time": "22h"
   },
   {
     "sunshine": "1000LX",
-    "time": 23h
+    "time": "23h"
   }
 ]
